@@ -1,0 +1,12 @@
+*.log
+*.class
+*.war
+*.jar
+*.swp
+*~
+.env
+.env.*
+.idea/
+.vscode/
+.runtime/
+backups/
